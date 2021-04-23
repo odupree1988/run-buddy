@@ -81,7 +81,7 @@ section {
 }
 
 .hero-form {
-  border: solid 3px #024e76;
+  border: 3px solid #024e76;
   background-color: #fce138;
   padding: 20px;
   width: 500px;
@@ -257,7 +257,8 @@ section {
   font-size: 32px;
 }
 
-.contact-info p, .contact-info address {
+.contact-info p, 
+.contact-info address {
   margin: 20px 0;
   line-height: 1.5;
   font-size: 20px;
